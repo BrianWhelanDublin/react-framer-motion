@@ -1,3 +1,13 @@
+# Framer Motion Walkthrough
+
+## Youtube walkthrough video.
+
+[Framer Motion (for React) by Net Ninja](https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i)
+
+<img src="src/images/project-screenshot.png" alt="screenshot of project">
+
+[Finished Project](https://react-framer-motion-smoky.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # react-framer-motion
